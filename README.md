@@ -14,3 +14,5 @@ Vanilla JavaScript To-Do app with filters and localStorage.
 - HTML
 - CSS
 - JavaScript
+
+🔗 Live demo: https://petarjosipovic1.github.io/todo-list-js/
